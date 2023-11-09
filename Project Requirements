@@ -7,5 +7,5 @@
 • Decision Tree or any other of your choice and save the model Tune the Model Using Grid Search Develop Testing Script of the model 
 • Involved Libraries This course mainly uses Python, specifically the OpenCV, skleam, sklmage,imutils and numpy libraries. 
 • No prior experience is required as this Guided Project is designed for complete beginners. 
-• Deliverables Python Code Files (training and testing file) Trained Model (in Pickle or joblib extension) 
+• Deliverables Python Code Files (training and testing file) Trained Model 
 • Short Document (Explaining your choice of Algorithm and project flow) 
