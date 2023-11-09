@@ -1,11 +1,22 @@
-• Develop a Cat and Dog Classification Model using traditional ML algorithms 
-• Involved Steps 
-• Get 100 Images of Cat, 100 images of Dogs, 100 quite different images. 
-• Can get data from Kaggle Split them in 80% for the training and 20% for the testing 
-• Read images from the folder and extract their HOG features Read labels of the image, 
-• which will be folder name of the images Train ML algorithm like SVM. 
-• Decision Tree or any other of your choice and save the model Tune the Model Using Grid Search Develop Testing Script of the model 
-• Involved Libraries This course mainly uses Python, specifically the OpenCV, skleam, sklmage,imutils and numpy libraries. 
-• No prior experience is required as this Guided Project is designed for complete beginners. 
-• Deliverables Python Code Files (training and testing file) Trained Model 
-• Short Document (Explaining your choice of Algorithm and project flow) 
+Project Description:
+
+Create a Cat and Dog Classification Model using traditional ML algorithms with these steps:
+
+Acquire 300 images (100 cats, 100 dogs, and 100 unrelated images) from sources like Kaggle.
+Split the dataset into 80% for training and 20% for testing.
+Extract Histogram of Oriented Gradients (HOG) features from the images.
+Use folder names as labels for the images.
+Train a Machine Learning algorithm (e.g., SVM, Decision Tree) of your choice and save the model.
+Fine-tune the model using Grid Search.
+Develop a testing script to evaluate the model's performance.
+Required Libraries:
+
+You will use Python and the following libraries: OpenCV, scikit-learn, scikit-image, imutils, and NumPy.
+
+Deliverables:
+
+Provide the following deliverables:
+
+Python code files for training and testing.
+The trained machine learning model.
+A short document explaining your algorithm choice and project flow.
